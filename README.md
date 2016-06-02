@@ -7,6 +7,3 @@
 [StatusBarHUD showSuccess:@"成功"];
 
 '''
-      [StatusBarHUD showError:@"失败"];
-      [StatusBarHUD showLoading:@"正在加载中"];
-      [StatusBarHUD showMessage:@"没有图标"];
